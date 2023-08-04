@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChemBits
+- 👋 Hi, I’m @labdatabit
 - 👀 I’m interested in chemistry, math and ITs. 
 - 🌱 I’m currently learning basics concepts of dev. web. and data science.
 - 💞️ I’m looking to collaborate on webs sites. 
